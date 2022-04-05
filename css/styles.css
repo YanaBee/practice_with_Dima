@@ -1,0 +1,8 @@
+@import './_fonts.css';
+
+
+body {
+    font-family: 'Raleway' ,sans-serif;
+    color: #ffffff
+    background-color: #242B33;
+}
