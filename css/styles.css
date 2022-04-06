@@ -6,3 +6,30 @@ body {
     color: #ffffff
     background-color: #242B33;
 }
+
+.header-inner {
+    display:flex;
+    justify-content: space-between;
+}
+.menu-list {
+    display: flex;
+}
+
+.feature-list {
+    display: flex;
+}
+.feature-item {
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.feature-img {
+    width: 5rem;
+    height: 5rem;
+}
+
+.flat-list {
+    display:flex;
+    flex-wrap:wrap;
+}
